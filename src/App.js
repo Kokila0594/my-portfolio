@@ -117,7 +117,7 @@ function App() {
           <h3>B.Tech – Electronics and Communication Engineering</h3>
           <h4>Manakula Vinayagar Institute of Technology</h4>
           <h5>Puducherry, India</h5>
-          <p>CGPA: 8.69</p>
+          <p>CGPA: 8.74</p>
           <p>2022 – 2026</p>
         </div>
 
