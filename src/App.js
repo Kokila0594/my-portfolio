@@ -29,7 +29,7 @@ function App() {
 
           <h1>Kokila P</h1>
 
-          <h2>Full Stack Developer | Java • Spring Boot • React</h2>
+          <h2>Full Stack Developer | Java • React • JavaScript</h2>
 
           <p className="hero-text">
             B.Tech ECE graduate passionate about building scalable and
