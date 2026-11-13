@@ -29,12 +29,15 @@ function App() {
 
           <h1>Kokila P</h1>
 
-          <h2>Full Stack Developer | Java • React • JavaScript</h2>
+          <h2>B.Tech ECE Graduate | Aspiring Software Developer</h2>
 
           <p className="hero-text">
-            B.Tech ECE graduate passionate about building scalable and
-            user-friendly web applications. I work with Java, Spring Boot,
-            React, and PostgreSQL to turn ideas into practical solutions.
+            B.Tech Electronics and Communication Engineering graduate
+            with hands-on experience in software development, full-stack
+            applications, and IoT-based systems through academic projects
+            and internships. Skilled in Java, JavaScript, React, Spring Boot,
+            and PostgreSQL, with a passion for developing practical,
+            user-friendly technology solutions.
           </p>
 
           <div className="hero-buttons">
